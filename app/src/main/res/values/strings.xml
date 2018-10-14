@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lecture4-Code</string>
+    <string name="string_done">All done! Loading time: %d ms</string>
+    <string name="string_threads_activity">Threads activity</string>
+    <string name="string_executors_activity">Executors activity</string>
+    <string name="string_asynctask_activity">AsyncTask activity</string>
+    <string name="string_rx_activity">Rx activity</string>
+</resources>
