@@ -20,6 +20,7 @@
         <activity android:name=".ExecutorsActivity"/>
         <activity android:name=".AsyncTaskActivity"/>
         <activity android:name=".RxActivity"/>
+        <activity android:name=".SyncActivity"/>
     </application>
 
 </manifest>

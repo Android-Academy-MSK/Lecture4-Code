@@ -9,6 +9,13 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/sync_button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/string_sync_activity"/>
+
+    <Button
         android:id="@+id/threads_button"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="match_parent"
@@ -35,5 +42,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/string_rx_activity"/>
+
 
 </LinearLayout>
